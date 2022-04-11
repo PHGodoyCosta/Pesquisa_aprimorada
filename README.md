@@ -6,9 +6,15 @@ Inicialmente, a ideia era fazer uma inteligência artifical que produzisse artig
 Aqui está os sites usados pelo buscador:
 
 https://www.youtube.com/
+
 https://brainly.com.br/
+
 https://pt.wikipedia.org/
+
 https://brasilescola.uol.com.br/
+
 https://www.todamateria.com.br/
+
 https://mundoeducacao.uol.com.br/
+
 https://www.infoescola.com/
